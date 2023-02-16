@@ -8,3 +8,8 @@
 	url = https://github.com/hemken/sasmarkdown
 	shallow = true
 	registered = true
+[submodule "Statamarkdown"]
+	path = Statamarkdown
+	url = https://github.com/hemken/statamarkdown
+	shallow = true
+	registered = true

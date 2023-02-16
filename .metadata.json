@@ -2,5 +2,9 @@
   {
     "package": "SASmarkdown",
     "oncran": true
+  },
+  {
+    "package": "Statamarkdown",
+    "oncran": true
   }
 ]
