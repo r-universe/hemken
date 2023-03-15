@@ -1,10 +1,10 @@
 [
   {
-    "package": "SASmarkdown",
+    "package": "Statamarkdown",
     "oncran": true
   },
   {
-    "package": "Statamarkdown",
+    "package": "SASmarkdown",
     "oncran": true
   }
 ]
