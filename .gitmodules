@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/hemken/sasmarkdown
-	shallow = true
-	registered = true
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/hemken/statamarkdown
-	shallow = true
-	registered = true
